@@ -1,1 +1,2 @@
-Your output data will end up here
+User::96f55c7d8f42	 LTV::75.93846153846152
+User::sdf84e123a43	 LTV::56.45278592375366
